@@ -1,0 +1,6 @@
+
+Everything goes through \textit{opt} command at this point in time.
+The passes are:
+
+. Transform ConstantInt arguments to a local variable and pass the variable in.
+. 
